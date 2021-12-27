@@ -1,0 +1,18 @@
+//  ----------------------- NAVIGATION ---------------------------
+
+nav {
+	background-color: #fff;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	// on the next line try flex-end and center
+	ul {justify-content:flex-start;}
+	
+	ul li a:hover{
+		text-decoration: none;
+		background-color: $menuColor;
+	}
+	
+	ul li a {
+		font-size: .9rem;
+	}// end anchor
+} // end nav
+

@@ -1,2 +1,2 @@
-# mobile-menu-v1
-Simple stacked navigation with horizontal for large screens
+# Mobile Menu v1
+Simple navigation stacked for small screens and horizontal for medium and large screens.
