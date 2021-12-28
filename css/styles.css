@@ -135,8 +135,14 @@ nav {
     font-weight: 700; }
 
 /* MAIN  */
-main p {
-  padding: .5rem 2vw; }
+main {
+  grid-row-start: 3; }
+  main p {
+    padding: .5rem 2vw; }
+  main h1 {
+    padding: .5rem 2vw;
+    font-size: 2rem;
+    color: #077; }
 
 /* FOOTER  */
 footer {
